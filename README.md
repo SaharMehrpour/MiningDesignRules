@@ -21,7 +21,7 @@ Unzip this file and open `index.html` in the browser.
 #### CrowdCoding-ActiveDocumentation-learningDR.zip
 This file contains a toy project for testing the tool and should be unzipped.
 There is a jar file named `spmf.jar` which is required for data mining procedures.
-There are also two files called ruleTable.json and tagTable contains sample design rule and tags for Active Documentation.
+There are also two files called `ruleTable.json` and `tagTable.json` contains sample design rule and tags for Active Documentation.
 
 
 #### ActiveDocumentationPlugin.zip
